@@ -17,5 +17,12 @@
     "test": [
       "@phpunit"
     ]
+  },
+  "autoload": {
+    "psr-4": {
+      "NumberWords\\": "src/NumberWords",
+      "GameOfLife\\": "src/GameOfLife",
+      "PokerHand\\": "src/PokerHand"
+    }
   }
 }
