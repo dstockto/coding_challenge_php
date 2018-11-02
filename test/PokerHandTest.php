@@ -1,4 +1,5 @@
 <?php
+
 namespace PokerHand;
 
 use PHPUnit\Framework\TestCase;
